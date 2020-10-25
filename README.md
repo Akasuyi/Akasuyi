@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello? Is anybody there? 👋
 
-<!--
-**Akasuyi/Akasuyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Xie Yuting
+## Personal Profile
+I am now an undergraduate majoring in information management and information system in Fujian Normal University. I will be in Tianjin university for my master's degree next year. My main research interest is natural language processing. 
 
-Here are some ideas to get you started:
+## Education
+2017 - BS in Information management& system -Fujian Normal University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- Explainable ML
+- Text generation
+
+## Work
+There will be some in the future, I think.
+
+## Contact me
+- mail: <xieyuting_998@qq.com>
