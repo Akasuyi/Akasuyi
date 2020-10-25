@@ -5,7 +5,7 @@
 I am now an undergraduate majoring in information management and information system in Fujian Normal University. I will be in Tianjin university for my master's degree next year. My main research interest is natural language processing. 
 
 ## Education
-2017 - BS in Information management& system -Fujian Normal University
+2017 - 2021    BS in Information management and information system    Fujian Normal University
 
 ## Research Interests
 - Explainable ML
