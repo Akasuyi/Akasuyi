@@ -1,6 +1,6 @@
 ### Hello? Is anybody there? 👋
 
-# Xie Yuting
+# Yuting Xie
 ## Personal Profile
 I am now an undergraduate majoring in information management and information system in Fujian Normal University. I will be in Tianjin university for my master's degree next year. My main research interest is natural language processing. 
 
