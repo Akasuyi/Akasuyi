@@ -14,6 +14,6 @@ Explainable ML, Text generation
 There will be some in the future, I think.
 
 ## Contact me
-mail: <xieyuting_998@qq.com>
+Mail: <xieyuting_998@qq.com>
 
 My Homepage: <https://akasuyi.github.io>
